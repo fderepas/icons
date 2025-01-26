@@ -2,7 +2,7 @@ import re
 import os
 import subprocess
 
-tableOfPng="<table><tr>\n"
+tableOfPng="<table>\n <tr>"
 tableOfPngCount=0;
 
 def clean_string(s,color):
@@ -71,25 +71,25 @@ def parse_file(file_path):
                                         svgFile], capture_output=True)
                         # write contents of README.md
                         tableOfPng=tableOfPng+"""
-                        <td>
-                         <table>
-                          <tr><td>"""+currentName+"""</td></tr>
-                          <tr>
-                           <td>
-                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+""".svg'/>
-                           </td>
-                          </tr>
-                          <tr>
-                           <td>
-                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+""".svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+"""_white.svg'>white</a>.<br/>
-                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+""".png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+"""_white.png'>white</a>.
-                           </td>
-                          </tr>
-                         </table>
-                        <td>\n"""
+  <td>
+   <table style="border:none;">
+    <tr><td>"""+currentName+"""</td></tr>
+    <tr>
+     <td bgcolor="#101010">
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+"""_white.svg'/>
+     </td>
+    </tr>
+    <tr>
+     <td>
+      svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+""".svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+"""_white.svg'>white</a>.<br/>
+      png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+""".png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+"""_white.png'>white</a>.
+     </td>
+    </tr>
+   </table>
+  </td>"""
                         tableOfPngCount=tableOfPngCount+1
                         if tableOfPngCount%4 == 0:
-                            tableOfPng+="</tr>\n\n"
+                            tableOfPng+="\n </tr>\n <tr>"
     except FileNotFoundError:
         print(f"File not found: {file_path}")
 
@@ -103,7 +103,7 @@ if __name__ == "__main__":
             readmeFile.write("extracted from ```https://github.com/canonical/")
             readmeFile.write("vanilla-framework.git```.\n\n")
             readmeFile.write("Extraction is performed by the ```parse.py``` script.\n")
-            readmeFile.write(tableOfPng+"</tr></table>\n")
+            readmeFile.write(tableOfPng+"\n </tr>\n</table>\n")
             readmeFile.write("")
     except PermissionError:
         print(f"Error: Permission denied to write to file 'README.md'.")
