@@ -15,8 +15,8 @@ def clean_string(s,color):
     s1=re.sub("%3E", ">", re.sub("%3C", "<", s))
     s2=re.sub(r"\#\{vf\-url\-friendly\-color\(\$color\)\}",color,s1)
     # set the right size for the twitter logo
-    s3=re.sub(r"width\=\'1200\' height\=\'1227\'","width='16' height='16'",s2)
-    return s3
+    #s3=re.sub(r"width\=\'1200\' height\=\'1227\'","width='16' height='16'",s2)
+    return s2
 
 
 def parse_file(file_path):
