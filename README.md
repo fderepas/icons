@@ -3,7 +3,6 @@ This git archive stores svg and png files extracted from ```https://github.com/c
 
 Extraction is performed by the ```parse.py``` script.
 <table><tr>
-
                         <td>
                          <table>
                           <tr><td>chevron</td></tr>
