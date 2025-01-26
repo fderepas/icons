@@ -2,7 +2,7 @@ import re
 import os
 import subprocess
 
-tableOfPng="\n"
+tableOfPng="<table><tr>\n"
 tableOfPngCount=0;
 
 def clean_string(s,color):
@@ -14,7 +14,9 @@ def clean_string(s,color):
     """
     s1=re.sub("%3E", ">", re.sub("%3C", "<", s))
     s2=re.sub(r"\#\{vf\-url\-friendly\-color\(\$color\)\}",color,s1)
-    return s2
+    # set the right size for the twitter logo
+    s3=re.sub(r"width\=\'1200\' height\=\'1227\'","width='16' height='16'",s2)
+    return s3
 
 
 def parse_file(file_path):
@@ -61,20 +63,35 @@ def parse_file(file_path):
                             print(f"Error: Permission denied to write to file '{svgFile}'.")
                         except Exception as e:
                             print(f"An unexpected error occurred: {e}")
-                        # create png out of svg
+                        # create white png out of svg
                         subprocess.run(["inkscape",
                                         "--export-type=png",
                                         "--export-height=256",
                                         "--export-width=256",
                                         svgFile], capture_output=True)
                         # write contents of README.md
-                        tableOfPng=tableOfPng+"|!["+currentName+"](https://github.com/fderepas/icons/refs/heads/main/"+currentName+".png)"
+                        tableOfPng=tableOfPng+"""
+                        <td>
+                         <table>
+                          <tr><td>"""+currentName+"""</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+""".svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+""".svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+"""_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+""".png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+"""_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>\n"""
                         tableOfPngCount=tableOfPngCount+1
                         if tableOfPngCount%4 == 0:
-                            tableOfPng+="|\n"
+                            tableOfPng+="</tr>\n\n"
     except FileNotFoundError:
         print(f"File not found: {file_path}")
-
 
 if __name__ == "__main__":
     parse_file('vanilla-framework/scss/_base_icon-definitions.scss')
@@ -86,7 +103,7 @@ if __name__ == "__main__":
             readmeFile.write("extracted from ```https://github.com/canonical/")
             readmeFile.write("vanilla-framework.git```.\n\n")
             readmeFile.write("Extraction is performed by the ```parse.py``` script.\n")
-            readmeFile.write(tableOfPng+"|\n")
+            readmeFile.write(tableOfPng+"</tr></table>\n")
             readmeFile.write("")
     except PermissionError:
         print(f"Error: Permission denied to write to file 'README.md'.")

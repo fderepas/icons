@@ -2,24 +2,1386 @@
 This git archive stores svg and png files extracted from ```https://github.com/canonical/vanilla-framework.git```.
 
 Extraction is performed by the ```parse.py``` script.
+<table><tr>
 
-|![chevron](https://github.com/fderepas/icons/refs/heads/main/chevron.png)|![anchor](https://github.com/fderepas/icons/refs/heads/main/anchor.png)|![plus](https://github.com/fderepas/icons/refs/heads/main/plus.png)|![minus](https://github.com/fderepas/icons/refs/heads/main/minus.png)|
-|![expand](https://github.com/fderepas/icons/refs/heads/main/expand.png)|![collapse](https://github.com/fderepas/icons/refs/heads/main/collapse.png)|![close](https://github.com/fderepas/icons/refs/heads/main/close.png)|![help](https://github.com/fderepas/icons/refs/heads/main/help.png)|
-|![info](https://github.com/fderepas/icons/refs/heads/main/info.png)|![delete](https://github.com/fderepas/icons/refs/heads/main/delete.png)|![error](https://github.com/fderepas/icons/refs/heads/main/error.png)|![error-grey](https://github.com/fderepas/icons/refs/heads/main/error-grey.png)|
-|![warning](https://github.com/fderepas/icons/refs/heads/main/warning.png)|![external-link](https://github.com/fderepas/icons/refs/heads/main/external-link.png)|![drag](https://github.com/fderepas/icons/refs/heads/main/drag.png)|![code](https://github.com/fderepas/icons/refs/heads/main/code.png)|
-|![menu](https://github.com/fderepas/icons/refs/heads/main/menu.png)|![copy](https://github.com/fderepas/icons/refs/heads/main/copy.png)|![search](https://github.com/fderepas/icons/refs/heads/main/search.png)|![success](https://github.com/fderepas/icons/refs/heads/main/success.png)|
-|![success-grey](https://github.com/fderepas/icons/refs/heads/main/success-grey.png)|![share](https://github.com/fderepas/icons/refs/heads/main/share.png)|![user](https://github.com/fderepas/icons/refs/heads/main/user.png)|![spinner](https://github.com/fderepas/icons/refs/heads/main/spinner.png)|
-|![show](https://github.com/fderepas/icons/refs/heads/main/show.png)|![hide](https://github.com/fderepas/icons/refs/heads/main/hide.png)|![get-link](https://github.com/fderepas/icons/refs/heads/main/get-link.png)|![linux](https://github.com/fderepas/icons/refs/heads/main/linux.png)|
-|![github](https://github.com/fderepas/icons/refs/heads/main/github.png)|![twitter](https://github.com/fderepas/icons/refs/heads/main/twitter.png)|![archive](https://github.com/fderepas/icons/refs/heads/main/archive.png)|![arrow-bottom-left](https://github.com/fderepas/icons/refs/heads/main/arrow-bottom-left.png)|
-|![arrow-bottom-right](https://github.com/fderepas/icons/refs/heads/main/arrow-bottom-right.png)|![arrow-down](https://github.com/fderepas/icons/refs/heads/main/arrow-down.png)|![arrow-left](https://github.com/fderepas/icons/refs/heads/main/arrow-left.png)|![arrow-right](https://github.com/fderepas/icons/refs/heads/main/arrow-right.png)|
-|![arrow-top-left](https://github.com/fderepas/icons/refs/heads/main/arrow-top-left.png)|![arrow-top-right](https://github.com/fderepas/icons/refs/heads/main/arrow-top-right.png)|![arrow-up](https://github.com/fderepas/icons/refs/heads/main/arrow-up.png)|![blueprint](https://github.com/fderepas/icons/refs/heads/main/blueprint.png)|
-|![book](https://github.com/fderepas/icons/refs/heads/main/book.png)|![certificate](https://github.com/fderepas/icons/refs/heads/main/certificate.png)|![certification](https://github.com/fderepas/icons/refs/heads/main/certification.png)|![cluster-host](https://github.com/fderepas/icons/refs/heads/main/cluster-host.png)|
-|![contact](https://github.com/fderepas/icons/refs/heads/main/contact.png)|![contextual-menu](https://github.com/fderepas/icons/refs/heads/main/contextual-menu.png)|![cursor](https://github.com/fderepas/icons/refs/heads/main/cursor.png)|![file-blank](https://github.com/fderepas/icons/refs/heads/main/file-blank.png)|
-|![file](https://github.com/fderepas/icons/refs/heads/main/file.png)|![folder](https://github.com/fderepas/icons/refs/heads/main/folder.png)|![gift](https://github.com/fderepas/icons/refs/heads/main/gift.png)|![image](https://github.com/fderepas/icons/refs/heads/main/image.png)|
-|![iso](https://github.com/fderepas/icons/refs/heads/main/iso.png)|![location](https://github.com/fderepas/icons/refs/heads/main/location.png)|![log-out](https://github.com/fderepas/icons/refs/heads/main/log-out.png)|![map](https://github.com/fderepas/icons/refs/heads/main/map.png)|
-|![notifications](https://github.com/fderepas/icons/refs/heads/main/notifications.png)|![private-key](https://github.com/fderepas/icons/refs/heads/main/private-key.png)|![profiles](https://github.com/fderepas/icons/refs/heads/main/profiles.png)|![repository](https://github.com/fderepas/icons/refs/heads/main/repository.png)|
-|![security-error](https://github.com/fderepas/icons/refs/heads/main/security-error.png)|![security-tick](https://github.com/fderepas/icons/refs/heads/main/security-tick.png)|![security-warning](https://github.com/fderepas/icons/refs/heads/main/security-warning.png)|![select-add](https://github.com/fderepas/icons/refs/heads/main/select-add.png)|
-|![select-remove](https://github.com/fderepas/icons/refs/heads/main/select-remove.png)|![select](https://github.com/fderepas/icons/refs/heads/main/select.png)|![single-host](https://github.com/fderepas/icons/refs/heads/main/single-host.png)|![snapshot](https://github.com/fderepas/icons/refs/heads/main/snapshot.png)|
-|![snooze](https://github.com/fderepas/icons/refs/heads/main/snooze.png)|![statistics](https://github.com/fderepas/icons/refs/heads/main/statistics.png)|![thumbs-down](https://github.com/fderepas/icons/refs/heads/main/thumbs-down.png)|![thumbs-up](https://github.com/fderepas/icons/refs/heads/main/thumbs-up.png)|
-|![tidy](https://github.com/fderepas/icons/refs/heads/main/tidy.png)|![toggle-side-nav](https://github.com/fderepas/icons/refs/heads/main/toggle-side-nav.png)|![turn-off-notification](https://github.com/fderepas/icons/refs/heads/main/turn-off-notification.png)|![upload](https://github.com/fderepas/icons/refs/heads/main/upload.png)|
-|![usb](https://github.com/fderepas/icons/refs/heads/main/usb.png)|![website](https://github.com/fderepas/icons/refs/heads/main/website.png)|![credit-card](https://github.com/fderepas/icons/refs/heads/main/credit-card.png)|
+                        <td>
+                         <table>
+                          <tr><td>chevron</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/chevron.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/chevron.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/chevron_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/chevron.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/chevron_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>anchor</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/anchor.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/anchor.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/anchor_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/anchor.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/anchor_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>plus</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/plus.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/plus.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/plus_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/plus.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/plus_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>minus</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/minus.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/minus.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/minus_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/minus.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/minus_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>expand</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/expand.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/expand.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/expand_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/expand.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/expand_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>collapse</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/collapse.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/collapse.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/collapse_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/collapse.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/collapse_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>close</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/close.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/close.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/close_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/close.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/close_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>help</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/help.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/help.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/help_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/help.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/help_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>info</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/info.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/info.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/info_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/info.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/info_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>delete</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/delete.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/delete.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/delete_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/delete.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/delete_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>error</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/error.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/error.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/error_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/error.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/error_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>error-grey</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/error-grey.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/error-grey.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/error-grey_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/error-grey.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/error-grey_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>warning</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/warning.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/warning.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/warning_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/warning.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/warning_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>external-link</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/external-link.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/external-link.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/external-link_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/external-link.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/external-link_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>drag</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/drag.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/drag.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/drag_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/drag.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/drag_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>code</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/code.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/code.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/code_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/code.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/code_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>menu</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/menu.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/menu.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/menu_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/menu.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/menu_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>copy</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/copy.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/copy.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/copy_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/copy.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/copy_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>search</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/search.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/search.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/search_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/search.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/search_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>success</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/success.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/success.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/success_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/success.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/success_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>success-grey</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/success-grey.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/success-grey.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/success-grey_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/success-grey.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/success-grey_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>share</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/share.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/share.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/share_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/share.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/share_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>user</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/user.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/user.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/user_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/user.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/user_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>spinner</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/spinner.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/spinner.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/spinner_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/spinner.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/spinner_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>show</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/show.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/show.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/show_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/show.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/show_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>hide</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/hide.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/hide.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/hide_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/hide.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/hide_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>get-link</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/get-link.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/get-link.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/get-link_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/get-link.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/get-link_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>linux</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/linux.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/linux.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/linux_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/linux.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/linux_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>github</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/github.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/github.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/github_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/github.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/github_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>twitter</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/twitter.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/twitter.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/twitter_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/twitter.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/twitter_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>archive</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/archive.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/archive.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/archive_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/archive.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/archive_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>arrow-bottom-left</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-bottom-left.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-bottom-left.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-bottom-left_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-bottom-left.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-bottom-left_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>arrow-bottom-right</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-bottom-right.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-bottom-right.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-bottom-right_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-bottom-right.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-bottom-right_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>arrow-down</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-down.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-down.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-down_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-down.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-down_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>arrow-left</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-left.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-left.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-left_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-left.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-left_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>arrow-right</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-right.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-right.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-right_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-right.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-right_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>arrow-top-left</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-top-left.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-top-left.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-top-left_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-top-left.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-top-left_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>arrow-top-right</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-top-right.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-top-right.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-top-right_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-top-right.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-top-right_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>arrow-up</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-up.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-up.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-up_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-up.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-up_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>blueprint</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/blueprint.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/blueprint.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/blueprint_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/blueprint.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/blueprint_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>book</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/book.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/book.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/book_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/book.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/book_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>certificate</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/certificate.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/certificate.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/certificate_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/certificate.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/certificate_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>certification</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/certification.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/certification.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/certification_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/certification.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/certification_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>cluster-host</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/cluster-host.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/cluster-host.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/cluster-host_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/cluster-host.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/cluster-host_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>contact</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/contact.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/contact.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/contact_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/contact.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/contact_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>contextual-menu</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/contextual-menu.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/contextual-menu.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/contextual-menu_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/contextual-menu.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/contextual-menu_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>cursor</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/cursor.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/cursor.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/cursor_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/cursor.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/cursor_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>file-blank</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/file-blank.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/file-blank.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/file-blank_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/file-blank.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/file-blank_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>file</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/file.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/file.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/file_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/file.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/file_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>folder</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/folder.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/folder.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/folder_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/folder.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/folder_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>gift</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/gift.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/gift.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/gift_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/gift.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/gift_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>image</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/image.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/image.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/image_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/image.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/image_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>iso</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/iso.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/iso.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/iso_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/iso.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/iso_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>location</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/location.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/location.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/location_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/location.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/location_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>log-out</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/log-out.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/log-out.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/log-out_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/log-out.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/log-out_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>map</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/map.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/map.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/map_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/map.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/map_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>notifications</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/notifications.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/notifications.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/notifications_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/notifications.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/notifications_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>private-key</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/private-key.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/private-key.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/private-key_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/private-key.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/private-key_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>profiles</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/profiles.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/profiles.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/profiles_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/profiles.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/profiles_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>repository</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/repository.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/repository.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/repository_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/repository.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/repository_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>security-error</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-error.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-error.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-error_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-error.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-error_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>security-tick</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-tick.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-tick.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-tick_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-tick.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-tick_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>security-warning</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-warning.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-warning.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-warning_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-warning.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-warning_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>select-add</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select-add.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select-add.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select-add_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select-add.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select-add_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>select-remove</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select-remove.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select-remove.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select-remove_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select-remove.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select-remove_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>select</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>single-host</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/single-host.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/single-host.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/single-host_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/single-host.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/single-host_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>snapshot</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/snapshot.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/snapshot.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/snapshot_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/snapshot.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/snapshot_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>snooze</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/snooze.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/snooze.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/snooze_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/snooze.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/snooze_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>statistics</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/statistics.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/statistics.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/statistics_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/statistics.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/statistics_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>thumbs-down</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/thumbs-down.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/thumbs-down.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/thumbs-down_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/thumbs-down.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/thumbs-down_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>thumbs-up</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/thumbs-up.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/thumbs-up.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/thumbs-up_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/thumbs-up.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/thumbs-up_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>tidy</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/tidy.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/tidy.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/tidy_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/tidy.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/tidy_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>toggle-side-nav</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/toggle-side-nav.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/toggle-side-nav.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/toggle-side-nav_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/toggle-side-nav.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/toggle-side-nav_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>turn-off-notification</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/turn-off-notification.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/turn-off-notification.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/turn-off-notification_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/turn-off-notification.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/turn-off-notification_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>upload</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/upload.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/upload.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/upload_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/upload.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/upload_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr>
+
+
+                        <td>
+                         <table>
+                          <tr><td>usb</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/usb.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/usb.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/usb_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/usb.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/usb_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>website</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/website.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/website.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/website_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/website.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/website_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+
+                        <td>
+                         <table>
+                          <tr><td>credit-card</td></tr>
+                          <tr>
+                           <td>
+                            <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/credit-card.svg'/>
+                           </td>
+                          </tr>
+                          <tr>
+                           <td>
+                            svg: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/credit-card.svg'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/credit-card_white.svg'>white</a>.<br/>
+                            png: <a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/credit-card.png'>black</a>,<a href='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/credit-card_white.png'>white</a>.
+                           </td>
+                          </tr>
+                         </table>
+                        <td>
+</tr></table>
