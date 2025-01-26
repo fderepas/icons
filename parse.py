@@ -76,7 +76,7 @@ def parse_file(file_path):
     <tr><td>"""+currentName+"""</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+"""_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/"""+currentName+"""_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>

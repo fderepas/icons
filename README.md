@@ -9,7 +9,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>chevron</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/chevron_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/chevron_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -25,7 +25,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>anchor</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/anchor_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/anchor_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -41,7 +41,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>plus</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/plus_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/plus_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -57,7 +57,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>minus</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/minus_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/minus_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -75,7 +75,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>expand</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/expand_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/expand_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -91,7 +91,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>collapse</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/collapse_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/collapse_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -107,7 +107,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>close</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/close_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/close_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -123,7 +123,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>help</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/help_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/help_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -141,7 +141,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>info</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/info_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/info_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -157,7 +157,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>delete</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/delete_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/delete_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -173,7 +173,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>error</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/error_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/error_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -189,7 +189,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>error-grey</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/error-grey_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/error-grey_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -207,7 +207,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>warning</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/warning_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/warning_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -223,7 +223,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>external-link</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/external-link_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/external-link_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -239,7 +239,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>drag</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/drag_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/drag_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -255,7 +255,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>code</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/code_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/code_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -273,7 +273,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>menu</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/menu_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/menu_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -289,7 +289,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>copy</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/copy_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/copy_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -305,7 +305,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>search</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/search_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/search_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -321,7 +321,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>success</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/success_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/success_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -339,7 +339,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>success-grey</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/success-grey_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/success-grey_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -355,7 +355,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>share</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/share_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/share_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -371,7 +371,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>user</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/user_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/user_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -387,7 +387,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>spinner</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/spinner_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/spinner_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -405,7 +405,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>show</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/show_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/show_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -421,7 +421,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>hide</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/hide_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/hide_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -437,7 +437,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>get-link</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/get-link_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/get-link_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -453,7 +453,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>linux</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/linux_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/linux_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -471,7 +471,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>github</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/github_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/github_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -487,7 +487,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>twitter</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/twitter_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/twitter_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -503,7 +503,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>archive</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/archive_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/archive_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -519,7 +519,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>arrow-bottom-left</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-bottom-left_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-bottom-left_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -537,7 +537,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>arrow-bottom-right</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-bottom-right_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-bottom-right_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -553,7 +553,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>arrow-down</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-down_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-down_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -569,7 +569,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>arrow-left</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-left_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-left_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -585,7 +585,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>arrow-right</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-right_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-right_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -603,7 +603,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>arrow-top-left</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-top-left_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-top-left_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -619,7 +619,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>arrow-top-right</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-top-right_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-top-right_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -635,7 +635,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>arrow-up</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-up_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/arrow-up_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -651,7 +651,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>blueprint</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/blueprint_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/blueprint_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -669,7 +669,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>book</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/book_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/book_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -685,7 +685,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>certificate</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/certificate_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/certificate_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -701,7 +701,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>certification</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/certification_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/certification_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -717,7 +717,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>cluster-host</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/cluster-host_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/cluster-host_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -735,7 +735,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>contact</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/contact_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/contact_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -751,7 +751,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>contextual-menu</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/contextual-menu_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/contextual-menu_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -767,7 +767,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>cursor</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/cursor_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/cursor_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -783,7 +783,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>file-blank</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/file-blank_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/file-blank_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -801,7 +801,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>file</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/file_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/file_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -817,7 +817,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>folder</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/folder_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/folder_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -833,7 +833,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>gift</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/gift_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/gift_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -849,7 +849,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>image</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/image_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/image_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -867,7 +867,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>iso</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/iso_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/iso_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -883,7 +883,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>location</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/location_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/location_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -899,7 +899,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>log-out</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/log-out_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/log-out_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -915,7 +915,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>map</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/map_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/map_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -933,7 +933,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>notifications</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/notifications_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/notifications_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -949,7 +949,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>private-key</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/private-key_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/private-key_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -965,7 +965,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>profiles</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/profiles_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/profiles_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -981,7 +981,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>repository</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/repository_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/repository_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -999,7 +999,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>security-error</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-error_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-error_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1015,7 +1015,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>security-tick</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-tick_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-tick_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1031,7 +1031,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>security-warning</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-warning_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/security-warning_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1047,7 +1047,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>select-add</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select-add_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select-add_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1065,7 +1065,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>select-remove</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select-remove_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select-remove_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1081,7 +1081,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>select</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/select_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1097,7 +1097,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>single-host</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/single-host_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/single-host_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1113,7 +1113,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>snapshot</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/snapshot_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/snapshot_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1131,7 +1131,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>snooze</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/snooze_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/snooze_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1147,7 +1147,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>statistics</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/statistics_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/statistics_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1163,7 +1163,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>thumbs-down</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/thumbs-down_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/thumbs-down_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1179,7 +1179,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>thumbs-up</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/thumbs-up_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/thumbs-up_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1197,7 +1197,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>tidy</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/tidy_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/tidy_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1213,7 +1213,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>toggle-side-nav</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/toggle-side-nav_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/toggle-side-nav_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1229,7 +1229,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>turn-off-notification</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/turn-off-notification_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/turn-off-notification_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1245,7 +1245,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>upload</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/upload_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/upload_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1263,7 +1263,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>usb</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/usb_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/usb_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1279,7 +1279,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>website</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/website_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/website_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
@@ -1295,7 +1295,7 @@ Extraction is performed by the ```parse.py``` script.
     <tr><td>credit-card</td></tr>
     <tr>
      <td bgcolor="#101010">
-      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/credit-card_white.svg'/>
+      <img src='https://raw.githubusercontent.com/fderepas/icons/refs/heads/main/icons/credit-card_white.svg' width="50" height="50" />
      </td>
     </tr>
     <tr>
